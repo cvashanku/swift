@@ -9,6 +9,8 @@ print(course)
 print(course[0])
 let val = course[0]
 print(val)
+print(course.first)
+print(course.last)
 //while loop
 var i : Int = 0
 while i<course.count{
